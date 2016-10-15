@@ -1,0 +1,39 @@
+= Continuous Documentation
+Quentin Vandekerckhove <qvandekerckhove@salto-consulting.com>
+v{revnumber}, October 15, 2016: Continuous documentation demonstration with Spring RestDocs, AsciiDoctor and Maven
+
+
+== User guide
+
+=== List people
+
+.Request
+include::{snippets}/index/curl-request.adoc[]
+
+.Response
+include::{snippets}/index/http-response.adoc[]
+
+=== Create a person
+
+.Request
+include::{snippets}/create/curl-request.adoc[]
+
+.Response
+include::{snippets}/create/http-response.adoc[]
+
+=== Get a person
+
+.Request
+include::{snippets}/get/curl-request.adoc[]
+
+.Response
+include::{snippets}/get/http-response.adoc[]
+
+=== Delete a person
+
+.Request
+include::{snippets}/delete/curl-request.adoc[]
+
+.Response
+include::{snippets}/delete/http-response.adoc[]
+

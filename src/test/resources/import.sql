@@ -1,0 +1,1 @@
+INSERT INTO PERSON (ID, LAST_NAME, FIRST_NAME) VALUES (1, 'Vandekerckhove', 'Quentin');
